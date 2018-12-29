@@ -1,3 +1,5 @@
+var FinneyForClient = TeddyHydeClient;
+
 FinneyForClient.onContribution( function() {
     sayThanks();
     revealContent();
